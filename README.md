@@ -1,4 +1,4 @@
-HSA-docs
+HSA-Docs-AMD
 ========
 
 The wiki page attached to this project contains the documentation for an HSA 
