@@ -1,5 +1,7 @@
+
+## HSA-Docs-AMD has been superseded by new ROCm Developer Focused Website at https://radeonopencompute.github.io
+======
 HSA-Docs-AMD
-========
 
 The wiki page attached to this project contains the documentation for an HSA 
 implementation on AMD platforms.  Please start here:
